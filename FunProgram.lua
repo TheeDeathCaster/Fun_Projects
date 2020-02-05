@@ -1,3 +1,4 @@
+-- A simple Lua program that outputs a message inputted from the user to the user.
 local InputtedMessage = "";
 
 io.write("Input message: ");
